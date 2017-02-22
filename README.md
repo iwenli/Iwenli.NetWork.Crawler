@@ -13,7 +13,7 @@
 
 ![程序运行图][1]
 ![爬取效果图1][2]
-![爬取效果图2][2]
+![爬取效果图2][3]
 
   [1]: https://github.com/iwenli/Iwenli.NetWork.Crawler/blob/master/Iwenli.NetWork.Crawler/images/QQ%E6%88%AA%E5%9B%BE20170222082454.png
   [2]: https://github.com/iwenli/Iwenli.NetWork.Crawler/blob/master/Iwenli.NetWork.Crawler/images/QQ%E6%88%AA%E5%9B%BE20170222082510.png
